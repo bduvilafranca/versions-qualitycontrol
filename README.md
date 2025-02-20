@@ -1,7 +1,7 @@
 # Quality-Control
 
 
-## Cambio de versiones semántico
+## Control versiones semántico
 
 El versionado semántico es un sistema de numeración de versiones que sigue el formato `MAJOR.MINOR.PATCH`, donde:
 
@@ -17,7 +17,7 @@ Por ejemplo, si tenemos una versión `1.4.2`:
 El uso de versionado semántico ayuda a entender el impacto de los cambios realizados en el software y a gestionar las dependencias de manera más efectiva.
 
 ---
-### Archivos
+### Info release
 >📂 En las carpetas SERVER o VERIFICADOR se encuentran los archivos con cada release. para su visualización o descarga.  
 El formato del archivo es Markdown (.md)
 
