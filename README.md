@@ -26,12 +26,13 @@ El formato del archivo es Markdown (.md)
 ## Enlaces a versiones
 
 ### Versiones server
+- [v3.0.4](./SERVER/v3.0.4.md)
 - [v3.0.3](./SERVER/v3.0.3.md)
 - [v3.0.2](./SERVER/v3.0.2.md)
 - [v3.0.1](./SERVER/v3.0.1.md)
 - [v3.0.0](./SERVER/v3.0.0.md)
 - [v2.8.3](./SERVER/v2.8.3.md)
-- [v2.8.3](./SERVER/v2.8.2.md)
+- [v2.8.2](./SERVER/v2.8.2.md)
 
 ### Versiones verificador autmático
 - [v2.9.0](./VERIFICADOR/v2.9.0.md)
