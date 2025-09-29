@@ -35,5 +35,7 @@ El formato del archivo es Markdown (.md)
 - [v2.8.2](./SERVER/v2.8.2.md) 09/10/2024
 
 ### Versiones verificador autmático
+- [v2.9.3](./VERIFICADOR/v2.9.3.md)  29/09/2025
+- [v2.9.2](./VERIFICADOR/v2.9.2.md)  07/09/2025
 - [v2.9.1](./VERIFICADOR/v2.9.1.md)  27/06/2025
 - [v2.9.0](./VERIFICADOR/v2.9.0.md)  13/02/2025
